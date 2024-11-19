@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutView Validación de match con el snapshot 1`] = `
+<div class="about">
+  <h1>Acerca de</h1>
+</div>
+`;
